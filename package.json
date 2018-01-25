@@ -1,0 +1,16 @@
+{
+  "name": "qrcode.js",
+  "version": "0.0.1",
+  "author": {
+    "name": "Sangmin Shim",
+    "email": "ssm0123@gmail.com",
+    "url": "http://jaguarjs.com"
+  },
+  "main": "qrcode.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vertex-young/qrcodejs.git"
+  }
+}
+
+        
